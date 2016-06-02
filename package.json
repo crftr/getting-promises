@@ -1,0 +1,15 @@
+{
+  "name": "getting-promises",
+  "version": "1.0.0",
+  "description": "cache test with promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "crftr",
+  "license": "ISC",
+  "dependencies": {
+    "q": "1.4.1",
+    "request": "2.72.0"
+  }
+}
